@@ -1,0 +1,21 @@
+.container {
+  margin-top: 20px;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.climate {
+  margin-bottom: 10px;
+}
+
+.terrain {
+  margin-bottom: 10px;
+}
+
+.back-link {
+  display: block;
+  margin-top: 20px;
+}

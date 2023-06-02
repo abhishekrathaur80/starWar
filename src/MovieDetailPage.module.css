@@ -1,0 +1,29 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .actor {
+    margin-bottom: 10px;
+  }
+  
+  .actorLink {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .planet {
+    margin-bottom: 10px;
+  }
+  
+  .planetLink {
+    color: blue;
+    text-decoration: underline;
+  }
